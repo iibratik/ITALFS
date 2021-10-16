@@ -11,30 +11,52 @@
 	<title>ITALFS</title>
 	<atom:link href="https://theii11.github.io/ITALFS/feed/" rel="self" type="application/rss+xml" />
 	<link>https://theii11.github.io/ITALFS/</link>
-	<description>Ещё один сайт на WordPress</description>
-	<lastBuildDate>Tue, 12 Oct 2021 19:13:41 +0000</lastBuildDate>
+	<description>IT Art Languages Sport</description>
+	<lastBuildDate>Sat, 16 Oct 2021 07:51:33 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://theii11.github.io/ITALFS/wp-content/uploads/2021/10/cropped-cropped-cropped-logo_size-gigapixel-scale-4_00x2-32x32.jpg</url>
+	<title>ITALFS</title>
+	<link>https://theii11.github.io/ITALFS/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Привет, мир!</title>
-		<link>https://theii11.github.io/ITALFS/2021/10/12/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/</link>
-					<comments>https://theii11.github.io/ITALFS/2021/10/12/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/#comments</comments>
+		<title>Привет посетители!</title>
+		<link>https://theii11.github.io/ITALFS/hello-world/</link>
+					<comments>https://theii11.github.io/ITALFS/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[iibratik]]></dc:creator>
-		<pubDate>Tue, 12 Oct 2021 19:13:41 +0000</pubDate>
-				<category><![CDATA[Без рубрики]]></category>
+		<pubDate>Fri, 15 Oct 2021 14:21:36 +0000</pubDate>
+				<category><![CDATA[Приветствие]]></category>
 		<guid isPermaLink="false">https://theii11.github.io/ITALFS/?p=1</guid>
 
-					<description><![CDATA[Добро пожаловать в WordPress. Это ваша первая запись. Отредактируйте или удалите ее, затем начинайте создавать!]]></description>
+					<description><![CDATA[Приветствую посетители! Мы очень рады что зашли на сайт нашей команды ITALFS!]]></description>
 										<content:encoded><![CDATA[
-<p>Добро пожаловать в WordPress. Это ваша первая запись. Отредактируйте или удалите ее, затем начинайте создавать!</p>
+<div class="wp-block-cover aligncenter has-background-dim has-custom-content-position is-position-bottom-center"><img loading="lazy" width="768" height="1024" class="wp-block-cover__image-background wp-image-128" alt="" src="https://theii11.github.io/ITALFS/wp-content/uploads/2021/10/photo_2021-10-16_08-13-29-768x1024.jpg" data-object-fit="cover" srcset="https://theii11.github.io/ITALFS/wp-content/uploads/2021/10/photo_2021-10-16_08-13-29-768x1024.jpg 768w, https://theii11.github.io/ITALFS/wp-content/uploads/2021/10/photo_2021-10-16_08-13-29-225x300.jpg 225w, https://theii11.github.io/ITALFS/wp-content/uploads/2021/10/photo_2021-10-16_08-13-29.jpg 960w" sizes="(max-width: 768px) 100vw, 768px" /><div class="wp-block-cover__inner-container">
+<p class="has-text-align-center has-large-font-size">Наша команда ITALFS</p>
+</div></div>
+
+
+
+<p>Приветствую посетители! Мы очень рады что зашли на сайт нашей команды ITALFS!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://theii11.github.io/ITALFS/2021/10/12/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/feed/</wfw:commentRss>
+					<wfw:commentRss>https://theii11.github.io/ITALFS/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
